@@ -12,20 +12,24 @@
 	<dict>
 		<key>988E49250C7ECCB28A5B58780F3BAF179B9EA686</key>
 		<string>https://github.com/purush0728/SampleTest2.git</string>
+		<key>98FF054FD634CABC1D50338134593DD7AF91D6B8</key>
+		<string>https://github.com/purush0728/SampleTest3.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SampleGit.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>988E49250C7ECCB28A5B58780F3BAF179B9EA686</key>
+		<string>../../../SampleTest2</string>
+		<key>98FF054FD634CABC1D50338134593DD7AF91D6B8</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/purush0728/SampleTest2.git</string>
+	<string>https://github.com/purush0728/SampleTest3.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>988E49250C7ECCB28A5B58780F3BAF179B9EA686</string>
+	<string>98FF054FD634CABC1D50338134593DD7AF91D6B8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>988E49250C7ECCB28A5B58780F3BAF179B9EA686</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SampleTest2</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98FF054FD634CABC1D50338134593DD7AF91D6B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SampleTest3</string>
 		</dict>
 	</array>
 </dict>
