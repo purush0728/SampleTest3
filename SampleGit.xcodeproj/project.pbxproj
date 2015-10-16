@@ -15,6 +15,7 @@
 		9793ED0E1BCFB12E00FC0FBD /* SampleGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9793ED0D1BCFB12E00FC0FBD /* SampleGitTests.swift */; };
 		9793ED1A1BCFC5E600FC0FBD /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9793ED191BCFC5E600FC0FBD /* SecondViewController.swift */; };
 		97FDCDB21BD0D3040083E675 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FDCDB11BD0D3040083E675 /* ThirdViewController.swift */; };
+		97FDCDB61BD0DA5B0083E675 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FDCDB51BD0DA5B0083E675 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		9793ED0D1BCFB12E00FC0FBD /* SampleGitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleGitTests.swift; sourceTree = "<group>"; };
 		9793ED191BCFC5E600FC0FBD /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		97FDCDB11BD0D3040083E675 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		97FDCDB51BD0DA5B0083E675 /* FourthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				9793ECF91BCFB12E00FC0FBD /* ViewController.swift */,
 				9793ED191BCFC5E600FC0FBD /* SecondViewController.swift */,
 				97FDCDB11BD0D3040083E675 /* ThirdViewController.swift */,
+				97FDCDB51BD0DA5B0083E675 /* FourthViewController.swift */,
 				9793ECFB1BCFB12E00FC0FBD /* Main.storyboard */,
 				9793ECFE1BCFB12E00FC0FBD /* Images.xcassets */,
 				9793ED001BCFB12E00FC0FBD /* LaunchScreen.xib */,
@@ -222,6 +225,7 @@
 				9793ECFA1BCFB12E00FC0FBD /* ViewController.swift in Sources */,
 				97FDCDB21BD0D3040083E675 /* ThirdViewController.swift in Sources */,
 				9793ECF81BCFB12E00FC0FBD /* AppDelegate.swift in Sources */,
+				97FDCDB61BD0DA5B0083E675 /* FourthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
